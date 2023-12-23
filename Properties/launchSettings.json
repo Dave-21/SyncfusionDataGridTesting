@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SyncFusionDataGrid (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SyncFusionDataGrid (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
